@@ -1,10 +1,10 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f8f9fa;
     margin-left: 10px;
     margin-right: 10px;
     padding: 0;
     color: #212529;
+    background: white url('images/background.png') no-repeat;
 }
 
 h1 {
